@@ -155,7 +155,7 @@ margin-right: 10px;
     width: 400px;
     border: 2px solid var(--maincolor);
     background-color: #fff;
-    padding: 5px;
+    padding: 25px;
     margin-top:5px ;
     transform: scale(0);
     visibility: hidden;

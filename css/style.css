@@ -66,6 +66,7 @@ max-width: 170px;
 .header-content nav {
 flex: 3;
 text-align: center;
+
 /* border: 2px solid red; */
 }
 
@@ -77,8 +78,11 @@ text-align: center;
 header .header-content ul li{
     display: inline-block;
 }
-header .header-content ul li , header .header-content ul li a{
+header .header-content ul li {
      color:var(--subcolor);
+}
+header .header-content ul li a{
+    color: var(--maincolor);
 }
 .header-content nav ul li .link-item{
     padding: 10px 15px;
